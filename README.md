@@ -7,7 +7,7 @@
 * and solutions(emmm...my solutions)
 * of MATH-UA 252 Numerical Analysis
 * during Spring 2022
-* taught by Prof.Gerorg Stadler(he's great, highly recommended!)
+* taught by Prof.Georg Stadler(he's great, highly recommended!)
 
 
 ## In each Folder...

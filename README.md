@@ -3,7 +3,7 @@
 
 ## Basic Info
 
-* This repo include all homeworks (7 in total)
+* This repo includes all homeworks (7 in total) of the semester
 * and solutions(emmm...my solutions)
 * of MATH-UA 252 Numerical Analysis
 * during Spring 2022

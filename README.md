@@ -8,6 +8,12 @@
 * of MATH-UA 252 Numerical Analysis
 * during Spring 2022
 * taught by Prof.Georg Stadler(he's great, highly recommended!)
+* with following Topics Covered:
+  * Solution of nonlinear equations
+  * Computer arithmetic, error analysis and conditioning
+  * Numerical linear algebra (solving (large) linear systems)
+  * Eigenvalues
+  * Interpolation
 
 
 ## In each Folder...
